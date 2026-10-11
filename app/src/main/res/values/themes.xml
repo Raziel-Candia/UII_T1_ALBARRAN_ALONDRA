@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.UII_T1_ALBARRAN_ALONDRA" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
